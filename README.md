@@ -28,7 +28,7 @@ This project is focused on frontend development only—there is no backend, and 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/DevMudasir 3d-Vision-Website-Project.git
+   git clone https://github.com/DevMudasir/3d-Vision-Hub-Website-Project.git
    ```
 2. Open the folder in VS Code or your preferred editor.
 3. Open `index.html` in your browser to view the website.
